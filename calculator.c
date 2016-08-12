@@ -12,3 +12,8 @@ int add(int p,int q)
 {
   
 }
+
+int subtract(int a,int q)
+{
+  return p-q;
+}
